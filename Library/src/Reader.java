@@ -19,9 +19,9 @@ public class Reader implements Runnable {
 
         // Настройка возможных перемещений читателя между локациями
         movement.put("дом", new int[]{6, 8});
-        movement.put("библиотека", new int[]{1, 5, 5, 5, 7, 7});
-        movement.put("здание", new int[]{0, 0, 2, 2, 2, 2, 2});
-        movement.put("читательный зал", new int[]{3, 6, 6, 6, 6, 6});
+        movement.put("библиотека", new int[]{1, 5, 5, 5,5,5,7,7, 7});
+        movement.put("здание", new int[]{0, 0, 2, 2, 2, 2, 2,0,0,2,2});
+        movement.put("читательный зал", new int[]{3, 6, 6, 6,6,6,6,6});
     }
 
     // Метод выбора случайного действия
