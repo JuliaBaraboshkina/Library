@@ -3,6 +3,9 @@
 Маленькая библиотека. Доступны для чтения несколько книг. Одинаковых книг в библиотеке нет. Некоторые выдаются на руки, некоторые только в читальный зал. Читатель может брать на руки и в читальный зал несколько книг.
 ### Демонстрация работы программы:
 
-<img width="490" alt="image" src="https://user-images.githubusercontent.com/90133237/235652390-da37dcc8-6f29-4fa6-b44d-715dc05aab36.png">
+<img width="325" alt="image" src="https://user-images.githubusercontent.com/90133237/235652969-730ee591-866f-485e-af40-4282923f50c1.png">
+
+<img width="492" alt="image" src="https://user-images.githubusercontent.com/90133237/235653051-2568847a-9cce-407b-99fe-18c7d8d47601.png">
+
 
 
